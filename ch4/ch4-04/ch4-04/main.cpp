@@ -4,18 +4,16 @@
 using namespace std;
 
 int main(){
-    string firstname;
-    string lastname;
+    using namespace std;
     string name;
-
-    cout << "영문 퍼스트 네임 (이름) : ";
-    getline(cin, firstname);
-    cout << "영문 라스트 네임 (성) : ";
-    getline(cin, lastname);
+    string dessert;
     
-    name =   lastname + ", " + firstname;
-    
-    cout << "이름 : " << name << endl;
+    cout << "이름을 입력하십시오:\n";
+    getline(cin, name);
+    cout << "좋아하는 디저트를 입력하십시오:\n";
+    getline(cin, dessert);
+    cout << "맛있는 " << dessert;
+    cout << " 디저트를 준비하겠습니다. " << name << " 님!\n";
     
     return 0;
 }
