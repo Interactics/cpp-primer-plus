@@ -2,7 +2,7 @@
 #include <string>
 
 struct pizzaCompany{
-    std::string name;
+    char name[30];
     int diameter;
     int weight;
 };
@@ -13,7 +13,7 @@ int main(){
     pizzaCompany inc;
     
     cout << "피자 회사 이름을 입력하세요 : " ;
-    getline(cin, inc.name);
+    cin.getline(inc.name, 30);
     cout << "피자의 지름 : ";
     cin >> inc.diameter;
     cout << "피자의 무게 : ";
