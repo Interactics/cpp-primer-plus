@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch5\ch5-04\main.cpp(15,26): warning C4244:  '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch5\ch5-04\main.cpp(16,28): warning C4244:  '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ch5-04.vcxproj -> C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch5\ch5-04\Debug\ch5-04.exe
