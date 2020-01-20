@@ -13,6 +13,7 @@ int main() {
 
 	std::cout << "몇 대의 차를 목록으로 관리하시겠습니까? ";
 	std::cin >> numOfCar;
+	std::cin.get();
 
 	car* carList = new car[numOfCar];
 	
@@ -20,9 +21,10 @@ int main() {
 	for (int i = 0; i < numOfCar; i++) {
 		std::cout << "자동차 #" << i+1 <<":" <<std::endl;
 		std::cout << "제작업체: ";
-		std::cin >> carList[i].company;
+		std::cin.get(carList[i].company, 20).get();
 		std::cout << "제작년도: ";
 		std::cin >> carList[i].year;
+		std::cin.get();
 	}
 
 	//출력부분
@@ -32,6 +34,10 @@ int main() {
 		std::cout << carList[i].year << "년형 " << carList[i].company << std::endl;
 
 	}
+
+	//메모리 해제
+
+	delete[] carList;
 
 	return 0;
 }
