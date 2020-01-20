@@ -1,6 +1,5 @@
 //C++ for Fools
 #include <iostream>
-#include <cstring>
 
 const int MONTH = 12;
 
