@@ -29,5 +29,7 @@ int main() {
 	std::cout << "파일 끝에 도착하였습니다\n" << "파일을 종료합니다." << std::endl;
 	std::cout << "문자의 수(화이트 스페이스 포함) : " << numChar << std::endl;
 
+	inFile.close();
+
 	return 0;
 }
