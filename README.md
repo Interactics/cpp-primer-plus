@@ -21,4 +21,3 @@ cpp-primer-plus 6th edition (Korean ver.) problem solution
 - [ ] ch16
 - [ ] ch17
 - [ ] ch18
-- [ ] ch14
