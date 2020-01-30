@@ -1,5 +1,4 @@
 #include <iostream>
-#include <iomanip>
 #include <string>
 
 struct donator{
@@ -26,7 +25,6 @@ int main() {
 	//기부자 명단 출력
 
 	//과학연산자 해제 후 소수점 둘째자리까지 표현.
-	std::cout.precision(2);
 	std::cout << std::fixed;
 
 	if (NumOfDona == 0) 
