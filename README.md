@@ -10,7 +10,7 @@ cpp-primer-plus 6th edition (Korean ver.) problem solution - Stephen Parata
 - [x] ch4
 - [x] ch5
 - [x] ch6
-- [ ] ch7
+- [x] ch7
 - [ ] ch8
 - [ ] ch9
 - [ ] ch10
