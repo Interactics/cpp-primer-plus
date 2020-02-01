@@ -1,7 +1,7 @@
 # cpp-primer-plus
-C++ 기초 플러스 6판 연습문제 솔루션
+C++ 기초 플러스 6판 (Stephen Parata) 한국판 연습문제 솔루션
 
-cpp-primer-plus 6th edition(Stephen Parata) Korean ver. problem solution
+cpp-primer-plus 6th edition (Stephen Parata) Korean. Problem Solution
 
 
 # Todo list
