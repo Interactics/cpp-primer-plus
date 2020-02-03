@@ -1,0 +1,3 @@
+﻿  ch8-02.cpp
+C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch8\ch8-02\ch8-02.cpp(33,39): error C2664:  'errno_t strcpy_s(char *,rsize_t,const char *)': 인수 2을(를) 'const char *'에서 'rsize_t'(으)로 변환할 수 없습니다.
+C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch8\ch8-02\ch8-02.cpp(33,22): message :  이 변환이 가능한 컨텍스트가 없습니다.
