@@ -1,0 +1,5 @@
+﻿  header.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch9\ch9-03\main.cpp(10,7): warning C4101:  'drossName' :참조되지 않은 지역 변수입니다.
+  ch9-03.vcxproj -> C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch9\ch9-03\Debug\ch9-03.exe
