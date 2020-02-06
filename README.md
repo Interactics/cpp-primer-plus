@@ -12,7 +12,7 @@ cpp-primer-plus 6th edition (Stephen Parata) Korean. Problem Solution
 - [x] ch6
 - [x] ch7
 - [x] ch8
-- [ ] ch9
+- [x] ch9
 - [ ] ch10
 - [ ] ch11
 - [ ] ch12
