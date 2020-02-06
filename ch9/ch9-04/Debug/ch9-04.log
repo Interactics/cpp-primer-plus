@@ -1,6 +1,2 @@
 ﻿  header.cpp
-C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch9\ch9-04\header.cpp(10,16): warning C4101:  'avg' :참조되지 않은 지역 변수입니다.
-C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch9\ch9-04\header.cpp(37,16): warning C4101:  'avg' :참조되지 않은 지역 변수입니다.
-main.obj : error LNK2005: "double * SALES::sales" (?sales@SALES@@3PANA)이(가) header.obj에 이미 정의되어 있습니다.
-main.obj : error LNK2005: "double SALES::average" (?average@SALES@@3NA)이(가) header.obj에 이미 정의되어 있습니다.
-C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch9\ch9-04\Debug\ch9-04.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
+  ch9-04.vcxproj -> C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch9\ch9-04\Debug\ch9-04.exe
