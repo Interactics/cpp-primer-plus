@@ -4,7 +4,7 @@ template <typename T>
 T maxn(T* arr, int n);
 
 template <> 
-char* maxn<char*>(char* charArr[], int);
+const char* maxn<const char*>(const char* charArr[], int);
 
 int main() {
 	using namespace std;
@@ -41,8 +41,8 @@ T maxn(T* arr, int n) {
 }
 
 template <>
-char* maxn<char*> (char* charArr[], int n){
-	char* p_charArr = charArr[0];
+const char* maxn<const char*> (const char* charArr[], int n){
+	const char* p_charArr = charArr[0];
 
 	for (int i = 0; i < n; i++)
 		p_charArr = strlen(*(charArr + i)) > strlen(p_charArr) ? *(charArr + i) : p_charArr;
