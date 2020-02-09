@@ -1,15 +1,21 @@
-//
-//  main.cpp
-//  ch10-04
-//
-//  Created by RyuHo-yeon on 2020/02/09.
-//  Copyright © 2020 HY_Yu. All rights reserved.
-//
+#include "namesp.h"
 
-#include <iostream>
+int main() {
+    using namespace SALES;
+    
+    int num = 3;
+    double sales_2019[3] = { 1,2,3 };
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    std::cout << "---매출 입력---" << std::endl;
+    Sales Y2019(sales_2019, num);
+    Sales Y2020;
+    std::cout << std::endl << std::endl;
+
+    std::cout << "---매출 출력---" << std::endl;
+    std::cout << "2018" << std::endl;
+    Y2019.showSales();
+    std::cout << "2019" << std::endl;
+    Y2020.showSales();
+
     return 0;
 }
