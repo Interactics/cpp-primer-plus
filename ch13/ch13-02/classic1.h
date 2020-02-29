@@ -11,7 +11,7 @@ public:
     Cd(const char* l, const char* s2, const int n, const double x);
     Cd(const Cd& d);
     Cd();
-    virtual ~Cd();
+    virtuasl ~Cd();
     virtual void Report() const;
     virtual Cd& operator=(const Cd& d);
 };
