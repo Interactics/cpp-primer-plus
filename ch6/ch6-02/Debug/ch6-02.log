@@ -1,7 +1,0 @@
-﻿  main.cpp
-C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch6\ch6-02\main.cpp(24,26): warning C4244:  '초기화 중': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch6\ch6-02\main.cpp(24,26): warning C4244:         with
-C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch6\ch6-02\main.cpp(24,26): warning C4244:         [
-C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch6\ch6-02\main.cpp(24,26): warning C4244:             _Ty=double
-C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch6\ch6-02\main.cpp(24,26): warning C4244:         ]
-  ch6-02.vcxproj -> C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch6\ch6-02\Debug\ch6-02.exe

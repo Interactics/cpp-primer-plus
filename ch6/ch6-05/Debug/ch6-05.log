@@ -1,6 +1,0 @@
-﻿  ch6-05.cpp
-C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch6\ch6-05\ch6-05.cpp(12,39): warning C4305:  '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch6\ch6-05\ch6-05.cpp(16,35): warning C4244:  '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch6\ch6-05\ch6-05.cpp(20,30): warning C4244:  '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch6\ch6-05\ch6-05.cpp(24,60): warning C4244:  '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  ch6-05.vcxproj -> C:\Users\Hoyeon Yu\Documents\cpp_lang\cpp-primer-plus\ch6\ch6-05\Debug\ch6-05.exe
